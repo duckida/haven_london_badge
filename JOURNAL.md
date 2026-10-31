@@ -1,0 +1,12 @@
+- Started drawing the concept in Excalidraw
+- Added some doodles
+- Thought about LED concepts
+- Created the PCB outline edge cut on KiCAD
+- Added the filled silkscreen polygon for the name area
+- Exported the drawings as SVG and added them
+- Found the button footprint and added it
+- Routed all the wires
+- Made the back filled area
+- Added the PCBWay logo
+- Made the body of Daven bare copper instead of just silkscreen
+- Exported Gerbers
